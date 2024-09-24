@@ -1,0 +1,87 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: rgba(141, 110, 99, 255) ;
+
+}
+a{text-decoration: none;color: white;font-size: larger;margin-right: 30px;}
+
+
+
+
+#logo{
+    width: 160px;
+    height: 160px;
+    
+
+}
+
+
+.container1{
+    background-image: url('background-office-bg-changed\ \(1\).jpg');
+    color: white;
+    text-align: center;  
+    padding: 80px;  
+}
+
+
+
+.container2 >div{
+    
+    background-color: rgba(215, 204, 200, 255);
+    width: 30%;
+    padding: 10px;
+    border-radius: 15px;
+   
+}
+
+
+.container2{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    
+    width: 20% ;
+    color:rgba(84, 70, 78, 255) ;
+    background-color: rgba(239, 235, 233, 255) ;
+    padding: 10px;
+    width: 100%;
+
+}
+
+
+
+
+
+
+#tlt{
+    color:rgba(84, 70, 78, 255); 
+    text-align: center;
+    background-color: rgba(239, 235, 233, 255)  ;
+    
+}
+
+
+
+
+
+.container3{
+    background-color: rgba(239, 235, 233, 255) ;
+    color:rgba(84, 70, 78, 255) ;
+
+    border-radius: 8px;
+}
+.container2 div img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+footer{
+    background-color: rgba(141, 110, 99, 255) ;
+    
+    text-align: center;
+    color: white;
+}
